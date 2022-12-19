@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @u-Kotovsky
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 🚩 I Know languages: C#, JS
+- 👀 I’m interested in backend development
+- 🌱 I’m currently learning nothing
+- 💞️ I’m looking to collaborate on game projects
+- 📫 How to reach me (Discord: Kotovsky#5766)
+- 🚩 I Know languages: C#, JavaScript, Python | English, A little bit of German, Russian
 
 <!---
 u-Kotovsky/u-Kotovsky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
