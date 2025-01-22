@@ -2,7 +2,7 @@
 - 👀 I’m interested in backend development
 - 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on game projects
-- 📫 How to reach me (Discord: Kotovsky#5766)
+- 📫 How to reach me `more likely not available`
 - 🚩 I Know languages: C#, JavaScript, Python | English, A little bit of German, Russian
 
 <!---
