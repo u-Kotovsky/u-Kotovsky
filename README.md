@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @u-Kotovsky
 - 👀 I’m interested in `backend (maybe frontend) development`
-- 🌱 I’m currently learning `something`
-- 🌱 I’m looking to learn `shaders`
+- 🌱 I’m currently learning `shaders`
+- 🌱 I’m looking to learn `-`
 - 💞️ I’m looking to collaborate on `game projects`
 - 📫 How to reach me `more likely not available`
 - 🚩 I Know languages: `C#`, `Java`, `JavaScript`, `Python`
