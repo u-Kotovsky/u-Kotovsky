@@ -2,8 +2,8 @@
 - 👀 I’m interested in `backend (maybe frontend) development`
 - 🌱 I’m currently learning `shaders`
 - 🌱 I’m looking to learn `-`
-- 💞️ I’m looking to collaborate on `game projects`
-- 📫 How to reach me `more likely not available`
+- 💞️ I’m looking to collaborate on `any projects`
+- 📫 How to reach me `most likely not available`
 - 🚩 I Know languages: `C#`, `Java`, `JavaScript`, `Python`
 - :speech_balloon: I know spoken languages: `Russian`, `English` and a little bit of `German`
 <!---
